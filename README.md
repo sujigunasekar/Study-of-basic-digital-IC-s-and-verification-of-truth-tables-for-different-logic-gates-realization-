@@ -96,10 +96,11 @@ endmodule
 ```
 ### Output:
 ## Logic symbol & Truthtable
-![Screenshot 2023-08-18 091231](https://github.com/sujigunasekar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559822/dc6071cb-be9e-4b51-a8eb-a6acead9ae66)
+![Screenshot 2023-08-18 105906](https://github.com/sujigunasekar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559822/4aba692b-7bc8-4323-8848-3af2d7758c0e)
+
 ## RTL realization
 ![Screenshot 2023-08-18 090448](https://github.com/sujigunasekar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559822/85c9a9ca-cd9e-4f4c-851b-22f99f04642d)
-
+## output
 ![Screenshot 2023-08-18 090430](https://github.com/sujigunasekar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559822/503ead66-e1fe-4e16-8380-6e5c78ff92e6)
 
 ## Result:
